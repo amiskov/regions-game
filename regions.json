@@ -1,0 +1,597 @@
+[
+  {
+    "code": "1",
+    "name": "Республика Адыгея",
+    "capital": "Майкоп",
+    "region": "Южный",
+    "flag": "adygfl.jpg"
+  },
+  {
+    "code": "2",
+    "name": "Республика Башкортостан",
+    "capital": "Уфа",
+    "region": "Приволжский",
+    "flag": "bashfl.jpg"
+  },
+  {
+    "code": "3",
+    "name": "Республика Бурятия",
+    "capital": "Улан-Удэ",
+    "region": "Сибирский",
+    "flag": "buryatfl.jpg"
+  },
+  {
+    "code": "4",
+    "name": "Республика Алтай",
+    "capital": "Горно-Алтайск",
+    "region": "Сибирский",
+    "flag": "altayfl.jpg"
+  },
+  {
+    "code": "5",
+    "name": "Республика Дагестан",
+    "capital": "Махачкала",
+    "region": "Северо-Кавказский",
+    "flag": "dagestfl.jpg"
+  },
+  {
+    "code": "6",
+    "name": "Республика Ингушетия",
+    "capital": "Магас",
+    "region": "Северо-Кавказский",
+    "flag": "ingushfl.jpg"
+  },
+  {
+    "code": "7",
+    "name": "Кабардино-Балкарская Республика",
+    "capital": "Нальчик",
+    "region": "Северо-Кавказский",
+    "flag": "kabbalfl.jpg"
+  },
+  {
+    "code": "8",
+    "name": "Республика Калмыкия",
+    "capital": "Элиста",
+    "region": "Южный",
+    "flag": "kalmfl.jpg"
+  },
+  {
+    "code": "9",
+    "name": "Республика Карачаево-Черкесия",
+    "capital": "Черкесск",
+    "region": "Северо-Кавказский",
+    "flag": "karachfl.jpg"
+  },
+  {
+    "code": "10",
+    "name": "Республика Карелия",
+    "capital": "Петрозаводск",
+    "region": "Северо-Западный ",
+    "flag": "karelfl.jpg"
+  },
+  {
+    "code": "11",
+    "name": "Республика Коми",
+    "capital": "Сыктывкар",
+    "region": "Северо-Западный",
+    "flag": "komifl.jpg"
+  },
+  {
+    "code": "12",
+    "name": "Республика Марий Эл",
+    "capital": "Йошкар-Ола",
+    "region": "Приволжский",
+    "flag": "marifl.jpg"
+  },
+  {
+    "code": "13",
+    "name": "Республика Мордовия",
+    "capital": "Саранск",
+    "region": "Приволжский",
+    "flag": "mordovfl.jpg"
+  },
+  {
+    "code": "14",
+    "name": "Республика Саха (Якутия)",
+    "capital": "Якутск",
+    "region": "Дальневосточный",
+    "flag": "sakha.jpg"
+  },
+  {
+    "code": "15",
+    "name": "Республика Северная Осетия-Алания",
+    "capital": "Владикавказ",
+    "region": "Северо-Кавказский",
+    "flag": "osetfl.jpg"
+  },
+  {
+    "code": "16",
+    "name": "Республика Татарстан",
+    "capital": "Казань",
+    "region": "Приволжский",
+    "flag": "tatarfl.jpg"
+  },
+  {
+    "code": "17",
+    "name": "Республика Тыва",
+    "capital": "Кызыл",
+    "region": "Сибирский",
+    "flag": "tuvafl.jpg"
+  },
+  {
+    "code": "18",
+    "name": "Удмуртская Республика",
+    "capital": "Ижевск",
+    "region": "Приволжский",
+    "flag": "udmurfl.jpg"
+  },
+  {
+    "code": "19",
+    "name": "Республика Хакасия",
+    "capital": "Абакан",
+    "region": "Сибирский",
+    "flag": "hakasfl.jpg"
+  },
+
+  {
+    "code": "21",
+    "name": "Чувашская Республика",
+    "capital": "Чебоксары",
+    "region": "Приволжский",
+    "flag": "chuvfl.jpg"
+  },
+  {
+    "code": "22",
+    "name": "Алтайский край",
+    "capital": "Барнаул",
+    "region": "Сибирский",
+    "flag": "altkrfl.jpg"
+  },
+  {
+    "code": "23",
+    "name": "Краснодарский край",
+    "capital": "Краснодар",
+    "region": "Южный",
+    "flag": "krasfl.jpg"
+  },
+  {
+    "code": "24",
+    "name": "Красноярский край",
+    "capital": "Красноярск",
+    "region": "Сибирский",
+    "flag": "kryarfl.jpg"
+  },
+  {
+    "code": "25",
+    "name": "Приморский край",
+    "capital": "Владивосток",
+    "region": "Дальневосточный",
+    "flag": "primfl.jpg"
+  },
+  {
+    "code": "26",
+    "name": "Ставропольский край",
+    "capital": "Ставрополь",
+    "region": "Северо-Кавказский",
+    "flag": "stavrfl.jpg"
+  },
+  {
+    "code": "27",
+    "name": "Хабаровский край",
+    "capital": "Хабаровск",
+    "region": "Дальневосточный",
+    "flag": "khabarfl.jpg"
+  },
+  {
+    "code": "28",
+    "name": "Амурская область",
+    "capital": "Благовещенск",
+    "region": "Дальневосточный",
+    "flag": "amurfl.jpg"
+  },
+  {
+    "code": "29",
+    "name": "Архангельская область",
+    "capital": "Архангельск",
+    "region": "Северо-Западный",
+    "flag": "arhfl.jpg"
+  },
+  {
+    "code": "30",
+    "name": "Астраханская область",
+    "capital": "Астрахань",
+    "region": "Южный",
+    "flag": "astrafl.jpg"
+  },
+  {
+    "code": "31",
+    "name": "Белгородская область",
+    "capital": "Белгород",
+    "region": "Центральный",
+    "flag": "belgorfl.jpg"
+  },
+  {
+    "code": "32",
+    "name": "Брянская область",
+    "capital": "Брянск",
+    "region": "Центральный",
+    "flag": "bryanfl.jpg"
+  },
+  {
+    "code": "33",
+    "name": "Владимирская область",
+    "capital": "Владимир",
+    "region": "Центральный",
+    "flag": "vloblfl.jpg"
+  },
+  {
+    "code": "34",
+    "name": "Волгоградская область",
+    "capital": "Волгоград",
+    "region": "Южный",
+    "flag": "voloblfl.jpg"
+  },
+  {
+    "code": "35",
+    "name": "Вологодская область",
+    "capital": "Вологда",
+    "region": "Северо-Западный",
+    "flag": "vologfl.jpg"
+  },
+  {
+    "code": "36",
+    "name": "Воронежская область",
+    "capital": "Воронеж",
+    "region": "Центральный",
+    "flag": "voronfl.jpg"
+  },
+  {
+    "code": "37",
+    "name": "Ивановская область",
+    "capital": "Иваново",
+    "region": "Центральный",
+    "flag": "ivanfl.jpg"
+  },
+  {
+    "code": "38",
+    "name": "Иркутская область",
+    "capital": "Иркутск",
+    "region": "Сибирский",
+    "flag": "irkutfl.jpg"
+  },
+  {
+    "code": "39",
+    "name": "Калининградская область",
+    "capital": "Калининград",
+    "region": "Северо-Западный",
+    "flag": "kalinfl.jpg"
+  },
+  {
+    "code": "40",
+    "name": "Калужская область",
+    "capital": "Калуга",
+    "region": "Центральный",
+    "flag": "kalugafl.jpg"
+  },
+  {
+    "code": "41",
+    "name": "Камчатский край",
+    "capital": "Петропавловск-Камчатский",
+    "region": "Дальневосточный",
+    "flag": "kamchfl.jpg"
+  },
+  {
+    "code": "42",
+    "name": "Кемеровская область",
+    "capital": "Кемерово",
+    "region": "Сибирский",
+    "flag": "kemerfl.jpg"
+  },
+  {
+    "code": "43",
+    "name": "Кировская область",
+    "capital": "Киров",
+    "region": "Приволжский",
+    "flag": "kirovfl.jpg"
+  },
+  {
+    "code": "44",
+    "name": "Костромская область",
+    "capital": "Кострома",
+    "region": "Центральный",
+    "flag": "kostrfl.jpg"
+  },
+  {
+    "code": "45",
+    "name": "Курганская область",
+    "capital": "Курган",
+    "region": "Уральский",
+    "flag": "kurganfl.jpg"
+  },
+  {
+    "code": "46",
+    "name": "Курская область",
+    "capital": "Курск",
+    "region": "Центральный",
+    "flag": "kurskfl.jpg"
+  },
+  {
+    "code": "47",
+    "name": "Ленинградская область",
+    "capital": "Санкт-Петербург",
+    "region": "Северо-Западный",
+    "flag": "leninfl.jpg"
+  },
+  {
+    "code": "48",
+    "name": "Липецкая область",
+    "capital": "Липецк",
+    "region": "Центральный",
+    "flag": "lipetskfl.jpg"
+  },
+  {
+    "code": "49",
+    "name": "Магаданская область",
+    "capital": "Магадан",
+    "region": "Дальневосточный",
+    "flag": "magadfl.jpg"
+  },
+  {
+    "code": "50",
+    "name": "Московская область",
+    "capital": "Москва",
+    "region": "Центральный",
+    "flag": "mosoblfl.jpg"
+  },
+  {
+    "code": "51",
+    "name": "Мурманская область",
+    "capital": "Мурманск",
+    "region": "Северо-Западный",
+    "flag": "murmfl.jpg"
+  },
+  {
+    "code": "52",
+    "name": "Нижегородская область",
+    "capital": "Нижний Новгород",
+    "region": "Приволжский",
+    "flag": "nngorfl.jpg"
+  },
+  {
+    "code": "53",
+    "name": "Новгородская область",
+    "capital": "Великий Новгород",
+    "region": "Северо-Западный",
+    "flag": "novgfl.jpg"
+  },
+  {
+    "code": "54",
+    "name": "Новосибирская область",
+    "capital": "Новосибирск",
+    "region": "Сибирский",
+    "flag": "novsibfl.jpg"
+  },
+  {
+    "code": "55",
+    "name": "Омская область",
+    "capital": "Омск",
+    "region": "Сибирский",
+    "flag": "omskfl.jpg"
+  },
+  {
+    "code": "56",
+    "name": "Оренбургская область",
+    "capital": "Оренбург",
+    "region": "Приволжский",
+    "flag": "orenbfl.jpg"
+  },
+  {
+    "code": "57",
+    "name": "Орловская область",
+    "capital": "Орел",
+    "region": "Центральный",
+    "flag": "orelfl.jpg"
+  },
+  {
+    "code": "58",
+    "name": "Пензенская область",
+    "capital": "Пенза",
+    "region": "Приволжский",
+    "flag": "penzafl.jpg"
+  },
+  {
+    "code": "59",
+    "name": "Пермский край",
+    "capital": "Пермь",
+    "region": "Приволжский",
+    "flag": "permoblfl.jpg"
+  },
+  {
+    "code": "60",
+    "name": "Псковская область",
+    "capital": "Псков",
+    "region": "Северо-Западный",
+    "flag": "нет"
+  },
+  {
+    "code": "61",
+    "name": "Ростовская область",
+    "capital": "Ростов-на-Дону",
+    "region": "Южный",
+    "flag": "rndfl.jpg"
+  },
+  {
+    "code": "62",
+    "name": "Рязанская область",
+    "capital": "Рязань",
+    "region": "Центральный",
+    "flag": "ryazfl.jpg"
+  },
+  {
+    "code": "63",
+    "name": "Самарская область",
+    "capital": "Самара",
+    "region": "Приволжский",
+    "flag": "samarfl.jpg"
+  },
+  {
+    "code": "64",
+    "name": "Саратовская область",
+    "capital": "Саратов",
+    "region": "Приволжский",
+    "flag": "saratfl.jpg"
+  },
+  {
+    "code": "65",
+    "name": "Сахалинская область",
+    "capital": "Южно-Сахалинск",
+    "region": "Дальневосточный",
+    "flag": "sakhalfl.jpg"
+  },
+  {
+    "code": "66",
+    "name": "Свердловская область",
+    "capital": "Екатеринбург",
+    "region": "Уральский",
+    "flag": "sverdfl.jpg"
+  },
+  {
+    "code": "67",
+    "name": "Смоленская область",
+    "capital": "Смоленск",
+    "region": "Центральный",
+    "flag": "smolfl.jpg"
+  },
+  {
+    "code": "68",
+    "name": "Тамбовская область",
+    "capital": "Тамбов",
+    "region": "Центральный",
+    "flag": "tambfl.jpg"
+  },
+  {
+    "code": "69",
+    "name": "Тверская область",
+    "capital": "Тверь",
+    "region": "Центральный",
+    "flag": "tverfl.jpg"
+  },
+  {
+    "code": "70",
+    "name": "Томская область",
+    "capital": "Томск",
+    "region": "Сибирский",
+    "flag": "tomskfl.jpg"
+  },
+  {
+    "code": "71",
+    "name": "Тульская область",
+    "capital": "Тула",
+    "region": "Центральный",
+    "flag": "tulafl.jpg"
+  },
+  {
+    "code": "72",
+    "name": "Тюменская область",
+    "capital": "Тюмень",
+    "region": "Уральский",
+    "flag": "tyumenfl.jpg"
+  },
+  {
+    "code": "73",
+    "name": "Ульяновская область",
+    "capital": "Ульяновск",
+    "region": "Приволжский",
+    "flag": "ulyanfl.jpg"
+  },
+  {
+    "code": "74",
+    "name": "Челябинская область",
+    "capital": "Челябинск",
+    "region": "Уральский",
+    "flag": "chelfl.jpg"
+  },
+  {
+    "code": "75",
+    "name": "Забайкальский край",
+    "capital": "Чита",
+    "region": "Сибирский",
+    "flag": "chitafl.jpg"
+  },
+  {
+    "code": "76",
+    "name": "Ярославская область",
+    "capital": "Ярославль",
+    "region": "Центральный",
+    "flag": "yaroslfl.jpg"
+  },
+  {
+    "code": "77",
+    "name": "г. Москва",
+    "capital": "Москва",
+    "region": "Центральный",
+    "flag": "mosfl.jpg"
+  },
+  {
+    "code": "78",
+    "name": "г. Санкт-Петербург",
+    "capital": "Санкт-Петербург",
+    "region": "spbfl.jpg"
+  },
+  {
+    "code": "79",
+    "name": "Еврейская автономная область",
+    "capital": "Биробиджан",
+    "region": "Дальневосточный",
+    "flag": "jewishfl.jpg"
+  },
+  {
+    "code": "83",
+    "name": "Ненецкий автономный округ",
+    "capital": "Нарьян-Мар",
+    "region": "Северо-Западный",
+    "flag": "nenetsfl.jpg"
+  },
+  {
+    "code": "86",
+    "name": "Ханты-Мансийский автономный округ - Югра",
+    "capital": "Ханты-Мансийск",
+    "region": "Уральский",
+    "flag": "hantfl.jpg"
+  },
+  {
+    "code": "87",
+    "name": "Чукотский автономный округ",
+    "capital": "Анадырь",
+    "region": "Дальневосточный",
+    "flag": "chukchfl.jpg"
+  },
+  {
+    "code": "89",
+    "name": "Ямало-Ненецкий автономный округ",
+    "capital": "Салехард",
+    "region": "Уральский",
+    "flag": "yamalfl.jpg"
+  },
+  {
+    "code": "91",
+    "name": "Республика Крым",
+    "capital": "Симферополь",
+    "region": "Южный",
+    "flag": "нет"
+  },
+  {
+    "code": "92",
+    "name": "г.Севастополь",
+    "capital": "Севастополь",
+    "region": "Южный",
+    "flag": "нет"
+  },
+  {
+    "code": "95",
+    "name": "Чеченская Республика",
+    "capital": "Грозный",
+    "region": "Северо-Кавказский",
+    "flag": "chechfl.jpg"
+  }
+]
